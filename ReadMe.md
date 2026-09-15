@@ -1,6 +1,9 @@
 **nombre del estudiante:** Román Eloy Solís Reyes
+
 **matricula:** 2630402
+
 **objetivo de la practica:** realizar un repositorio de git y vincularlo a GitHub
+
 **descripción del proceso realizado:**
 
 ## 1- inicio de carpeta y rama
@@ -85,6 +88,7 @@
 ```
 ## 6- modificación del archivo "ReadMe"
 -modificó el archivo "ReadMe.md" con las especificaciones solicitada y procederé a crear un commit ya con este modificado 
+
 **conclusión:**
 En esta practica repase una vez mas el como utilizar de manera efectiva tanto git como GitHub conociendo de una mejor manera los comando que constituyen a estos dos programas y recuperando mi contraseña de GitHub en el proceso
 
