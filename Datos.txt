@@ -1,6 +1,7 @@
 Román Solís
 2630402@upv.edu.mx
 practica 1 de sincronización con GitHub
+este arco fue modificado desde la red local :p
 este archivo fue modificado desde GitHub (al editor estuvo 2 horas tratando de recuperar su contraseña jeje saludos)
 ⠀⠀⣠⠤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⠀
 ⠀⠀⡜⠁⠀⠈⢢⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠋⠷⠶⠱⡄
