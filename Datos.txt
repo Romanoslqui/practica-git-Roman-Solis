@@ -1,7 +1,7 @@
-Roman Solís
+Román Solís
 2630402@upv.edu.mx
-practica 1 de sincronización con GitHup
-este archovo fue modificado desde githup (al editor estuvo 2 horas tratando de recuperar su contraseña jeje saludos)
+practica 1 de sincronización con GitHub
+este archivo fue modificado desde GitHub (al editor estuvo 2 horas tratando de recuperar su contraseña jeje saludos)
 ⠀⠀⣠⠤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⠀
 ⠀⠀⡜⠁⠀⠈⢢⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠋⠷⠶⠱⡄
 ⠀⢸⣸⣿⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠫⢀⣖⡃⢀⣸⢹
